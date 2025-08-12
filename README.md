@@ -22,17 +22,6 @@ This project simulates an education ministry's internal system with a modular ar
 
 ---
 
-## 📂 Project Structure
-state_education_project/
-├── controllers/ # Application controllers (logic layer)
-├── database/ # Database schema and connection
-├── models/ # Data models
-├── ui/ # User interface components
-├── utils/ # Helper functions and utilities
-├── main.py # Application entry point
-└── README.md # Documentation
-
-
 ## ⚙️ Installation & Setup
 ```bash
 # 1. Clone the repository
